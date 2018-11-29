@@ -1,0 +1,38 @@
+你好,nǐ hǎo (Hello)
+你,nǐ (you)
+好,hǎo (good,well,fine)
+吗,ma (indicates a question)
+我,wǒ (I)
+很,hěn (very)
+呢,ne (Indicates "what about?")
+也,yě (also)
+谢谢,xièxie (thank you)
+老师,lǎoshī (teacher)
+叫,jiào (to be called)
+同学们,tóngxuémen (classmates)
+同学,tóngxué (classmate)
+们,men (used to refer plural)
+请问,qǐngwèn (excuse me; may I please ask)
+请,qǐng (to request; to treat; please)
+问,wèn (to ask)
+他,tā (he)
+什么,shénme (what)
+名字,míngzi (name)
+再见,zàijiàn (goodbye)
+陈大东,Chén Dádōng
+陈,Chén
+大东,Dádōng
+孙玛丽,Sūn Mǎlì
+孙,Sūn
+玛丽,Mǎlì
+学,xué (to learn)
+学校,xuéxiào (school) (r)
+姓,xìng (to be surnamed)
+您,nín (you formal)
+她,tā (she)
+它,tā (it) (r)
+先生,xiānsheng (Mr.) (r)
+太太,Tàitai (Mrs.) (r)
+小姐,Xiǎojie (Miss) (r)
+女士,Nǚshì (Ms.) (r)
+刘,Liú (r)
