@@ -17,7 +17,7 @@ def shift_2(fn):
 		c = l.index(',')
 		if "(" in l:
 			p1 = l.index('(')
-			print(l[c+1:p1-1] + l[:c] +","  + " " +l[p1:],end='')
+			print( l[:c]+" "+l[c+1:p1-1]  +","  + " " +l[p1:],end='')
 		else:
 			print(l[c+1:-1] + "," + l[:c])
 
@@ -43,4 +43,4 @@ def proc(n):
 		l1 = l1.replace("*","")
 		f2.write(l1[:-1] +" "+ l2)
 
-proc("A6_2")
+shift_2("words/A7_2.txt")
