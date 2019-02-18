@@ -12,7 +12,7 @@ def shift_deck(fn):
 			print(l[c+1:-1] + "," + l[:c])
 
 def shift_2(fn):
-	f = open(fn,"r")
+	f = open("words/"+fn+".txt","r")
 	for l in f.readlines():
 		c = l.index(',')
 		if "(" in l:
@@ -38,9 +38,15 @@ def proc(n):
 	while True:
 		l1 = f.readline()
 		l2 = f.readline()
+		num = f.tell()
+		l3 = f.readline()
 		if not l2:
 			break 
+		if "|" in l3:
+			l2 = l2[:-1]+" "+l3
+		else:
+			f.seek(num)
 		l1 = l1.replace("*","")
 		f2.write(l1[:-1] +" "+ l2)
 
-shift_2("words/A7_2.txt")
+shift_2("A8_2")

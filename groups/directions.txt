@@ -1,0 +1,6 @@
+东,Dōng (east)
+西,Xī (west)
+北,Běi (north)
+南,Nán (south)
+左,Zuǒ (left)
+右,Yòu (right)
